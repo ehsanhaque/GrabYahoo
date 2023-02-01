@@ -1,6 +1,11 @@
 Read Me
 -------
 
+```
+IMPORTANT NOTE:
+This PHP class is no longer functional and is being kept here as an example of my previous work.
+```
+
 Version Change:  
 \-------------------------------------------------------------------------------------  
 Currect Version: 1.5  
@@ -33,7 +38,7 @@ in to Yahoo! account and generated array of either Address Book or Messenger Lis
 The test file test.php has the options set for users to view. class.GrabYahoo.php has list of Public  
 Variables that you can set.
 
-To view the demo please visit [http://resource.bdwebwork.com/GrabYahoo/](http://resource.bdwebwork.com/GrabYahoo/)
+To view the demo please visit http://resource.bdwebwork.com/GrabYahoo/ (link discontinued)
 
 Requirement:  
 \-------------------------------------------------------------------------------------  
