@@ -1,5 +1,3 @@
-body, table { font-family: Verdana, Arial, Georgia, Times New Roman, Times, serif; font-size: 10pt } .index-letter-section { background-color: #EEEEEE; border: 1px dotted #999999; padding: .5em; margin-bottom: 1em} 
-
 Read Me
 -------
 
@@ -53,10 +51,4 @@ purpose.
 Please feel free to contact me if you have any question or suggestion for this class. Hopefully you  
 will rate my work and inspire me to go ahead with my work.
 
-Ehsan Haque  
-Homepage & Blog: [http://ehsan.bdwebwork.com](http://ehsan.bdwebwork.com)
-
-Email: [http://ehsan.bdwebwork.com/contact](http://ehsan.bdwebwork.com/contact)
-
-Moderator - PHP Resource  
-[http://groups.yahoo.com/group/phpresource/](http://groups.yahoo.com/group/phpresource/)
+Ehsan Haque
